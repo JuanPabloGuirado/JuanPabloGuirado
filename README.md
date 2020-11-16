@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p>Junior Java developer. Currently not working but actively looking for a chance to prove myself and everyone of what exactly I'm capable of.
+
+I'm constantly improving myself and I have a passion for learning, this translates to my work, my hobbies and every aspect of my life.  
+
+</p>
+
 <!--
 **JuanPabloGuirado/JuanPabloGuirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
