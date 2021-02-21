@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>Junior Java developer. Currently not working but actively looking for a chance to prove myself and everyone of what exactly I'm capable of.
+<p>Junior Java developer. I'm constantly and actively looking for new job opportunities to prove myself and everyone of what exactly I'm capable of.
 
-I'm constantly improving myself and I have a passion for learning, this translates to my work, my hobbies and every aspect of my life.  
+I'm always looking for new ways to improve myself and I have a passion for learning, this translates to my work, my hobbies and every other aspect of my life.  
 
 </p>
 
